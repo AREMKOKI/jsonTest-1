@@ -1,7 +1,14 @@
-{
-  "title": "Sunset at the Beach",
+[{
+  "title": "En Sintonia con Dios",
   "picture": "sunset_beach.jpg",
-  "description": "A beautiful sunset captured at the beach with orange and purple hues reflecting on the water.",
-  "date": "2025-08-22",
-  "time": "18:45"
-}
+  "description": "Donde la Fe se Escucha, las Reflexiones tocan el Corazon y las Noticias mueven la Iglesia de Hoy",
+  "date": "Todos los Martes",
+  "time": "6:00pm"
+},
+{
+  "title": "Por la Manana con Jesus",
+  "picture": "sunset_beach.jpg",
+  "description": "Un Programa de Fe y Oracion",
+  "date": "Todos los Dias de Lunes a Viernes",
+  "time": "6:00pm"
+}]
